@@ -1,0 +1,140 @@
+item {
+    id: 1
+    name: 'grape leaf'
+}
+
+item {
+    id: 2
+    name: 'Tomato two spotted spider mites leaf'
+}
+
+item {
+    id: 3
+    name: 'Tomato mold leaf'
+}
+
+item {
+    id: 4
+    name: 'Tomato leaf yellow virus'
+}
+
+item {
+    id: 5
+    name: 'Tomato leaf late blight'
+}
+
+item {
+    id: 6
+    name: 'Tomato leaf bacterial spot'
+}
+
+item {
+    id: 7
+    name: 'Tomato leaf'
+}
+
+item {
+    id: 8
+    name: 'Tomato Septoria leaf spot'
+}
+
+item {
+    id: 9
+    name: 'Tomato Early blight leaf'
+}
+
+item {
+    id: 10
+    name: 'Strawberry leaf'
+}
+
+item {
+    id: 11
+    name: 'Squash Powdery mildew leaf'
+}
+
+item {
+    id: 12
+    name: 'Soyabean leaf'
+}
+
+item {
+    id: 13
+    name: 'Raspberry leaf'
+}
+
+item {
+    id: 14
+    name: 'Potato leaf late blight'
+}
+
+item {
+    id: 15
+    name: 'Potato leaf early blight'
+}
+
+item {
+    id: 16
+    name: 'Potato leaf'
+}
+
+item {
+    id: 17
+    name: 'Peach leaf'
+}
+
+item {
+    id: 18
+    name: 'Corn rust leaf'
+}
+
+item {
+    id: 19
+    name: 'Corn leaf blight'
+}
+
+item {
+    id: 20
+    name: 'Corn Gray leaf spot'
+}
+
+item {
+    id: 21
+    name: 'Cherry leaf'
+}
+
+item {
+    id: 22
+    name: 'Blueberry leaf'
+}
+
+item {
+    id: 23
+    name: 'Bell_pepper leaf spot'
+}
+
+item {
+    id: 24
+    name: 'Bell_pepper leaf'
+}
+
+item {
+    id: 25
+    name: 'Apple rust leaf'
+}
+
+item {
+    id: 26
+    name: 'Apple leaf'
+}
+
+item {
+    id: 27
+    name: 'grape leaf black rot'
+}
+
+item {
+    id: 28
+    name: 'Apple Scab Leaf'
+}
+
